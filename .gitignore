@@ -1,5 +1,7 @@
 # custom python gitignore
+# virtual env
 jarvis_venv/
+
 
 #official python gitignore
 # Byte-compiled / optimized / DLL files
